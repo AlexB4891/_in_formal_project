@@ -6,7 +6,7 @@ output: html_document
 ---
 
 Para cargar las presentaciones en Github seguir los siguientes pasos:
-
+Esto es una prueba: lo más que puleas lo mejor que pusheas
 1. Crear un repositorio en GitHub
 2. Ingresar en la carpeta en la que estoy trabjando y desde la terminal escribir la sentencia:
 
@@ -73,7 +73,7 @@ git chekout nombre_branch
 git push -u origin nombre_branch
 ```
 
-
+12.
 
 
 
